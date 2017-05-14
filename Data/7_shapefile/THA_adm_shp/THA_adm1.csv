@@ -1,0 +1,78 @@
+OBJECTID,ID_0,ISO,NAME_0,ID_1,NAME_1,HASC_1,CCN_1,CCA_1,TYPE_1,ENGTYPE_1,NL_NAME_1,VARNAME_1
+1,228,THA,Thailand,1,Amnat Charoen,TH.AC,NA,37,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2D><U+0E33><U+0E19><U+0E32><U+0E08><U+0E40><U+0E08><U+0E23><U+0E34><U+0E0D>,
+2,228,THA,Thailand,2,Ang Thong,TH.AT,NA,15,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2D><U+0E48><U+0E32><U+0E07><U+0E17><U+0E2D><U+0E07>,
+3,228,THA,Thailand,3,Bangkok Metropolis,TH.BM,NA,10,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E43><U+0E2B><U+0E21><U+0E48>,Bangkok|Krung Thep|Krung Thep Maha Nakhon|Phra Nakhon-Thonburi
+4,228,THA,Thailand,4,Bueng Kan,TH.BK,NA,,Changwat,Province,<U+0E1A><U+0E36><U+0E07><U+0E01><U+0E32><U+0E2C>,
+5,228,THA,Thailand,5,Buri Ram,TH.BR,NA,31,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1A><U+0E38><U+0E23><U+0E35><U+0E23><U+0E31><U+0E21><U+0E22><U+0E4C>,Buri Rum
+6,228,THA,Thailand,6,Chachoengsao,TH.CC,NA,24,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E09><U+0E30><U+0E40><U+0E0A><U+0E34><U+0E07><U+0E40><U+0E17><U+0E23><U+0E32>,Chaxerngsao|Pad Rew|Paed Riu|Petrieu|Shajeun Dhrao
+7,228,THA,Thailand,7,Chai Nat,TH.CN,NA,18,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E0A><U+0E31><U+0E22><U+0E19><U+0E32><U+0E17>,Chainat
+8,228,THA,Thailand,8,Chaiyaphum,TH.CY,NA,36,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E0A><U+0E31><U+0E22><U+0E19><U+0E32><U+0E17>,
+9,228,THA,Thailand,9,Chanthaburi,TH.CT,NA,,Changwat,Province,<U+0E08><U+0E31><U+0E19><U+0E17><U+0E1A><U+0E38><U+0E23><U+0E35>,Chantaburi|Muang Chan
+10,228,THA,Thailand,10,Chiang Mai,TH.CM,NA,50,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E43><U+0E2B><U+0E21><U+0E48>,
+11,228,THA,Thailand,11,Chiang Rai,TH.CR,NA,57,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E40><U+0E0A><U+0E35><U+0E22><U+0E07><U+0E23><U+0E32><U+0E22>,
+12,228,THA,Thailand,12,Chon Buri,TH.CB,NA,20,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E0A><U+0E25><U+0E1A><U+0E38><U+0E23><U+0E35>,
+13,228,THA,Thailand,13,Chumphon,TH.CP,NA,86,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E0A><U+0E38><U+0E21><U+0E1E><U+0E23>,
+14,228,THA,Thailand,14,Kalasin,TH.KL,NA,46,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E01><U+0E32><U+0E2C><U+0E2A><U+0E34><U+0E19><U+0E18><U+0E38><U+0E4C>,
+15,228,THA,Thailand,15,Kamphaeng Phet,TH.KP,NA,62,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E01><U+0E33><U+0E41><U+0E1E><U+0E07><U+0E40><U+0E1E><U+0E0A><U+0E23>,Gampheang Phet|Kambhengbhej
+16,228,THA,Thailand,16,Kanchanaburi,TH.KN,NA,71,Changwat,Province,<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E01><U+0E32><U+0E0D><U+0E08><U+0E19><U+0E1A><U+0E38><U+0E23><U+0E35>,Kan Buri|Park Prag
+17,228,THA,Thailand,17,Khon Kaen,TH.KK,NA,40,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E02><U+0E2D><U+0E19><U+0E41><U+0E01><U+0E48><U+0E19>,
+18,228,THA,Thailand,18,Krabi,TH.KR,NA,81,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E01><U+0E23><U+0E30><U+0E1A><U+0E35><U+0E48>,
+19,228,THA,Thailand,19,Lampang,TH.LG,NA,52,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E25><U+0E33><U+0E1B><U+0E32><U+0E07>,
+20,228,THA,Thailand,20,Lamphun,TH.LN,NA,51,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E25><U+0E33><U+0E1E><U+0E39><U+0E19>,Hariphunchai|Lampoon
+21,228,THA,Thailand,21,Loei,TH.LE,NA,42,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E40><U+0E25><U+0E22>,
+22,228,THA,Thailand,22,Lop Buri,TH.LB,NA,16,Changwat,Province,<U+0E25><U+0E1E><U+0E1A><U+0E38><U+0E23><U+0E35>,
+23,228,THA,Thailand,23,Mae Hong Son,TH.MH,NA,58,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E41><U+0E21><U+0E48><U+0E2E><U+0E48><U+0E2D><U+0E07><U+0E2A><U+0E2D><U+0E19>,
+24,228,THA,Thailand,24,Maha Sarakham,TH.MS,NA,44,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E21><U+0E2B><U+0E32><U+0E2A><U+0E32><U+0E23><U+0E04><U+0E32><U+0E21>,
+25,228,THA,Thailand,25,Mukdahan,TH.MD,NA,49,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E21><U+0E38><U+0E01><U+0E14><U+0E32><U+0E2B><U+0E32><U+0E23>,
+26,228,THA,Thailand,26,Nakhon Nayok,TH.NN,NA,26,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E04><U+0E23><U+0E19><U+0E32><U+0E22><U+0E01>,Nakon Nayok
+27,228,THA,Thailand,27,Nakhon Pathom,TH.NP,NA,73,Changwat,Province,<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E19><U+0E04><U+0E23><U+0E1B><U+0E10><U+0E21>,
+28,228,THA,Thailand,28,Nakhon Phanom,TH.NF,NA,48,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E04><U+0E23><U+0E1E><U+0E19><U+0E21>,
+29,228,THA,Thailand,29,Nakhon Ratchasima,TH.NR,NA,30,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E04><U+0E23><U+0E23><U+0E32><U+0E0A><U+0E2A><U+0E35><U+0E21><U+0E32>,Khorat|Nagara Rajasima|Nakaun Rachasima
+30,228,THA,Thailand,30,Nakhon Sawan,TH.NS,NA,60,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E04><U+0E23><U+0E2A><U+0E27><U+0E23><U+0E23><U+0E04><U+0E4C>,
+31,228,THA,Thailand,31,Nakhon Si Thammarat,TH.NT,NA,80,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E04><U+0E23><U+0E28><U+0E23><U+0E35><U+0E18><U+0E23><U+0E23><U+0E21><U+0E23><U+0E32><U+0E0A>,Nakhon Thammarat|Nagara Sridharmaraj|Nakhon Sri Thammarat|Nakhornsrithamrat|Nakornsrithamaraj
+32,228,THA,Thailand,32,Nan,TH.NA,NA,55,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E48><U+0E32><U+0E19>,
+33,228,THA,Thailand,33,Narathiwat,TH.NW,NA,96,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E23><U+0E32><U+0E18><U+0E34><U+0E27><U+0E32><U+0E2A>,
+34,228,THA,Thailand,34,Nong Bua Lam Phu,TH.NB,NA,39,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E1A><U+0E31><U+0E27><U+0E25><U+0E33><U+0E20><U+0E39>,Nong Bua Lamphu
+35,228,THA,Thailand,35,Nong Khai,TH.NK,NA,43,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2B><U+0E19><U+0E2D><U+0E07><U+0E04><U+0E32><U+0E22>,
+36,228,THA,Thailand,36,Nonthaburi,TH.NO,NA,12,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E19><U+0E19><U+0E17><U+0E1A><U+0E38><U+0E23><U+0E35>,
+37,228,THA,Thailand,37,Pathum Thani,TH.PT,NA,13,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1B><U+0E17><U+0E38><U+0E21><U+0E18><U+0E32><U+0E19><U+0E35>,
+38,228,THA,Thailand,38,Pattani,TH.PI,NA,94,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1B><U+0E31><U+0E15><U+0E15><U+0E32><U+0E19><U+0E35>,
+39,228,THA,Thailand,39,Phangnga,TH.PG,NA,82,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1E><U+0E31><U+0E07><U+0E07><U+0E32>,
+40,228,THA,Thailand,40,Phatthalung,TH.PL,NA,93,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1E><U+0E31><U+0E17><U+0E25><U+0E38><U+0E07>,
+41,228,THA,Thailand,41,Phayao,TH.PY,NA,56,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1E><U+0E30><U+0E40><U+0E22><U+0E32>,
+42,228,THA,Thailand,42,Phetchabun,TH.PH,NA,67,Changwat,Province,<U+0E2D><U+0E33><U+0E40><U+0E20><U+0E2D><U+0E40><U+0E21><U+0E37><U+0E2D><U+0E07><U+0E40><U+0E1E><U+0E0A><U+0E23><U+0E1A><U+0E39><U+0E23><U+0E13><U+0E4C>,
+43,228,THA,Thailand,43,Phetchaburi,TH.PE,NA,76,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E40><U+0E1E><U+0E0A><U+0E23><U+0E1A><U+0E38><U+0E23><U+0E35>,Phetcha Buri|Bejraburi|Petchburi|Phet Buri|Tetchburit
+44,228,THA,Thailand,44,Phichit,TH.PC,NA,66,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1E><U+0E34><U+0E08><U+0E34><U+0E15><U+0E23>,
+45,228,THA,Thailand,45,Phitsanulok,TH.PS,NA,65,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1E><U+0E34><U+0E29><U+0E13><U+0E38><U+0E42><U+0E25><U+0E01>,Bisnulok|Phisanulauk|Phitsnulok|Pitsanuloke
+46,228,THA,Thailand,46,Phra Nakhon Si Ayutthaya,TH.PA,NA,14,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1E><U+0E23><U+0E30><U+0E19><U+0E04><U+0E23><U+0E28><U+0E23><U+0E35><U+0E2D><U+0E22><U+0E38><U+0E18><U+0E22><U+0E32>,Phranakhon Si Ayutthaya|Ayudhya|Ayutthaya|Phranakhornsri-ayuthaya
+47,228,THA,Thailand,47,Phrae,TH.PR,NA,54,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E41><U+0E1E><U+0E23><U+0E48>,
+48,228,THA,Thailand,48,Phuket,TH.PU,NA,83,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E20><U+0E39><U+0E40><U+0E01><U+0E47><U+0E15>,
+49,228,THA,Thailand,49,Prachin Buri,TH.PB,NA,25,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1B><U+0E23><U+0E32><U+0E08><U+0E35><U+0E19><U+0E1A><U+0E38><U+0E23><U+0E35>,
+50,228,THA,Thailand,50,Prachuap Khiri Khan,TH.PK,NA,77,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E1B><U+0E23><U+0E30><U+0E08><U+0E27><U+0E1A><U+0E04><U+0E35><U+0E23><U+0E35><U+0E02><U+0E31><U+0E19><U+0E18><U+0E4C>,Korh Luxk|Prachuab Girikhand|Prachuapkirikhan|Prachut Khirikhan
+51,228,THA,Thailand,51,Ranong,TH.RN,NA,85,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E23><U+0E30><U+0E19><U+0E2D><U+0E07>,
+52,228,THA,Thailand,52,Ratchaburi,TH.RT,NA,70,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E23><U+0E32><U+0E0A><U+0E1A><U+0E38><U+0E23><U+0E35>,
+53,228,THA,Thailand,53,Rayong,TH.RY,NA,21,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E23><U+0E30><U+0E22><U+0E2D><U+0E07>,
+54,228,THA,Thailand,54,Roi Et,TH.RE,NA,45,Changwat,Province,<U+0E23><U+0E49><U+0E2D><U+0E22><U+0E40><U+0E2D><U+0E47><U+0E14>,
+55,228,THA,Thailand,55,Sa Kaeo,TH.SK,NA,27,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E23><U+0E30><U+0E41><U+0E01><U+0E49><U+0E27>,Srakaeo
+56,228,THA,Thailand,56,Sakon Nakhon,TH.SN,NA,47,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E01><U+0E25><U+0E19><U+0E04><U+0E23>,
+57,228,THA,Thailand,57,Samut Prakan,TH.SP,NA,11,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E21><U+0E38><U+0E17><U+0E23><U+0E1B><U+0E23><U+0E32><U+0E01><U+0E32><U+0E23>,Pak Nam|Samudh Prakarn|Samudraprakar|Samut Phrakhan
+58,228,THA,Thailand,58,Samut Sakhon,TH.SS,NA,74,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E21><U+0E38><U+0E17><U+0E23><U+0E2A><U+0E32><U+0E04><U+0E23>,Krokkrak Maha Chai|Mahachai|Samudrasagara
+59,228,THA,Thailand,59,Samut Songkhram,TH.SM,NA,75,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E21><U+0E38><U+0E17><U+0E23><U+0E2A><U+0E07><U+0E04><U+0E23><U+0E32><U+0E21>,Mae Klong|Samudrasonggram
+60,228,THA,Thailand,60,Saraburi,TH.SR,NA,19,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E23><U+0E30><U+0E1A><U+0E38><U+0E23><U+0E35>,Sara Buri
+61,228,THA,Thailand,61,Satun,TH.SA,NA,91,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E15><U+0E39><U+0E25>,
+62,228,THA,Thailand,62,Si Sa Ket,TH.SI,NA,33,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E28><U+0E23><U+0E35><U+0E2A><U+0E30><U+0E40><U+0E01><U+0E29>,Sisaket|Khukhan|Khukhandh|Srisaket
+63,228,THA,Thailand,63,Sing Buri,TH.SB,NA,17,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E34><U+0E07><U+0E2B><U+0E4C><U+0E1A><U+0E38><U+0E23><U+0E35>,
+64,228,THA,Thailand,64,Songkhla,TH.SG,NA,90,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E07><U+0E02><U+0E25><U+0E32>,
+65,228,THA,Thailand,65,Sukhothai,TH.SO,NA,64,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E38><U+0E42><U+0E02><U+0E17><U+0E31><U+0E22>,Sawankhalokt|Sukhotai|Sukothai|Svargalok
+66,228,THA,Thailand,66,Suphan Buri,TH.SH,NA,72,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E38><U+0E1E><U+0E23><U+0E23><U+0E13><U+0E1A><U+0E38><U+0E23><U+0E35>,
+67,228,THA,Thailand,67,Surat Thani,TH.ST,NA,84,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E38><U+0E23><U+0E32><U+0E29><U+0E0E><U+0E23><U+0E4C><U+0E18><U+0E32><U+0E19><U+0E35>,
+68,228,THA,Thailand,68,Surin,TH.SU,NA,32,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2A><U+0E38><U+0E23><U+0E34><U+0E19><U+0E17><U+0E23><U+0E4C>,
+69,228,THA,Thailand,69,Tak,TH.TK,NA,63,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E15><U+0E32><U+0E01>,
+70,228,THA,Thailand,70,Trang,TH.TG,NA,92,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E15><U+0E23><U+0E31><U+0E07>,Tab Tiang
+71,228,THA,Thailand,71,Trat,TH.TT,NA,23,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E15><U+0E23><U+0E32><U+0E14>,
+72,228,THA,Thailand,72,Ubon Ratchathani,TH.UR,NA,34,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2D><U+0E38><U+0E1A><U+0E25><U+0E23><U+0E32><U+0E0A><U+0E18><U+0E32><U+0E19><U+0E35>,
+73,228,THA,Thailand,73,Udon Thani,TH.UN,NA,41,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2D><U+0E38><U+0E14><U+0E23><U+0E18><U+0E32><U+0E19><U+0E35>,
+74,228,THA,Thailand,74,Uthai Thani,TH.UT,NA,61,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2D><U+0E38><U+0E17><U+0E31><U+0E22><U+0E18><U+0E32><U+0E19><U+0E35>,
+75,228,THA,Thailand,75,Uttaradit,TH.UD,NA,53,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E2D><U+0E38><U+0E15><U+0E23><U+0E14><U+0E34><U+0E15><U+0E16><U+0E4C>,
+76,228,THA,Thailand,76,Yala,TH.YL,NA,95,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E22><U+0E30><U+0E25><U+0E32>,
+77,228,THA,Thailand,77,Yasothon,TH.YS,NA,35,Changwat,Province,<U+0E08><U+0E31><U+0E07><U+0E2B><U+0E27><U+0E31><U+0E14><U+0E22><U+0E42><U+0E2A><U+0E18><U+0E23>,
